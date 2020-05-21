@@ -15,6 +15,9 @@
 			return $datos;
 		}
 
+
+		//comentario de prueba en git
+
 		public function registrar(){
 
 			if ($_POST) {
